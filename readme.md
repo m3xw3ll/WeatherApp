@@ -1,6 +1,6 @@
 # Terminal Weather Report
 
-A simple Python skript to run in the terminal to get a quick weather report. 
+A simple Python script to run in the terminal to get a quick weather report. 
 
 ![Preview](thumbnail.png)
 
